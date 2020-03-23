@@ -6,3 +6,5 @@ contains basic spring cloud features like:
     Feign-Client - for communicating the microservices(like RestTemplate)
     Lambok - For Inbuilt getters,setters and constructers
     Ribbon - For Load balancing
+    
+    so on
